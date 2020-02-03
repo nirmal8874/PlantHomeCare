@@ -1,6 +1,12 @@
 # UberPlantHomeCare
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
+The goal of this project is to make sure that We bring together all the Nature Lovers & Create uber like enviroment for people who grow plants at home and have to frequently on business trip, vacations, emergencies etc.
+
+Dr Nikhila Surayapalem 
+
+Daughter of a Enviromental Engineer & Enviroment came up with a beautiful idea to support care taking of Trees in a uber like model.She's currently working with her team on building the website to address the same. 
+
+Things to lookout for 
 
 ## Development server
 
